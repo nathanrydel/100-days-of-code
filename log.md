@@ -1,30 +1,62 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 26, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed HTML on nathanrydel/basicpersonalportfolio. Working on Python coding via Programming Expert by AlgoExpert.io https://www.programmingexpert.io/index
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Performed basic HTML edits to change the content of the site. Old deprecated site.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+1. Basic Portfolio | https://github.com/nathanrydel/basicpersonalportfolio
+2. Programming Expert https://www.programmingexpert.io/index
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: April 27, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created Freemote Repo and worked on ProgrammingExpert Modules.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Spent time setting up the Freemote Bootcamp repo for project work. Initial commit let to setup file structure and work on Week 5 JavaScript exercises.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
+1. https://github.com/nathanrydel/freemote
+2. https://www.programmingexpert.io/index
 
+### Day 3: April 28, 2022
 
-### Day 1: June 27, Monday
+**Today's Progress**: Worked on JavaScript Exercises 2 and Week 2 Shopify.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Spent time working on Freemote JavaScript excerises 2 & 3. Setup Shopify Partner account.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://github.com/nathanrydel/freemote
+2. https://partners.shopify.com/
+
+### Day 4: April 28, 2022
+
+**Today's Progress**: Worked on refactoring HTML & CSS projects from Freemote Week 1.
+
+**Thoughts**: I now see the need for commenting in codebases as viewing some of my work after the fact is daunting. I need to working on naming for conventions for classes and ids as well as commenting in CSS so that re-viewing code is much easier.
+
+**Links to Work**:
+1. https://github.com/nathanrydel/freemote
+
+
+### Day 5: April 29, 2022 ###
+
+**Today's Progress**: Worked on JavaScript Practice 3 and Learning to Contribute to Open Source Projects.
+
+**Thoughts**: Spent time working on Freemote JavaScript excerises 3. Learning to contribute to Open Source Projects.
+
+**Link(s) to work**
+1. https://github.com/nathanrydel/freemote
+2. https://opensource.guide/how-to-contribute/
+
+### Day 6: April 30, 2022 ###
+
+**Today's Progress**: Worked on JavaScript Practice 4 and Learning to Contribute to Open Source Projects.
+
+**Thoughts**: Spent time working on Freemote JavaScript excerises 4. Learning to contribute to Open Source Projects.
+
+**Link(s) to work**
+1. https://github.com/nathanrydel/freemote
+2. https://opensource.guide/how-to-contribute/
+
