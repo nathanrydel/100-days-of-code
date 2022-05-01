@@ -30,19 +30,9 @@
 1. https://github.com/nathanrydel/freemote
 2. https://partners.shopify.com/
 
-### Day 4: April 28, 2022
+### Day 4: April 29, 2022
 
-**Today's Progress**: Worked on refactoring HTML & CSS projects from Freemote Week 1.
-
-**Thoughts**: I now see the need for commenting in codebases as viewing some of my work after the fact is daunting. I need to working on naming for conventions for classes and ids as well as commenting in CSS so that re-viewing code is much easier.
-
-**Links to Work**:
-1. https://github.com/nathanrydel/freemote
-
-
-### Day 5: April 29, 2022 ###
-
-**Today's Progress**: Worked on JavaScript Practice 3 and Learning to Contribute to Open Source Projects.
+**Today's Progress**: Worked on refactoring HTML & CSS projects from Freemote Week 1. Worked on JavaScript Practice 3 and Learning to Contribute to Open Source Projects.
 
 **Thoughts**: Spent time working on Freemote JavaScript excerises 3. Learning to contribute to Open Source Projects.
 
@@ -50,7 +40,8 @@
 1. https://github.com/nathanrydel/freemote
 2. https://opensource.guide/how-to-contribute/
 
-### Day 6: April 30, 2022 ###
+
+### Day 5: April 30, 2022 ###
 
 **Today's Progress**: Worked on JavaScript Practice 4 and Learning to Contribute to Open Source Projects.
 
