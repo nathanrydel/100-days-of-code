@@ -66,3 +66,16 @@
 1. https://github.com/nathanrydel/freemote
 2. https://eslint.org/docs/user-guide/getting-started
 3. https://www.programmingexpert.io/programming-fundamentals/
+
+### Day 7: May 2, 2022
+
+**Today's Progress**: Building second version of RydelPortfolio (Dark Version) in a private repo for testing. Attempting to use a template found online as the backbone and customizing for my needs. Also completed the Introductory Course from ProgrammingExpert. Completed all videos and practice problems. Completed the coding assesment challenges from ProgrammingExpert.
+
+**Thoughts**: Trying to work from a code base with minimal documenation is quite challenging. I need to cherry pick the files as there is too much going on with the template that it may take some work to fully configure. I will need to come up with a more robust solution to get nathanrydel.dev up and running.
+
+For the coding assessments from ProgrammingExpert, I will try to watch the solutions without coding to really familarize myself with the concepts and then attempt the challenges myself to see if the concepts stick. May need some refreshers before continuing onto the OOP portion.
+
+**Link(s) to work**:
+
+1. https://www.programmingexpert.io/
+2. https://github.com/nathanrydel/testportfoliodark
