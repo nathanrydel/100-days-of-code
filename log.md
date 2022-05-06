@@ -92,9 +92,9 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 
 ### Day 9: May 4, 2022
 
-**Today's Progress**: Figured out how to host screenshots of portfolio elements on a site to use as a CDN. Completed work on portfolio and published to home domain. Cleaned up single portfolio item links
+**Today's Progress**: Figured out how to host screenshots of portfolio elements on a site to use as a CDN. Completed work on portfolio and published to home domain. Cleaned up single portfolio item screenshots and added to site. Deployed site.
 
-**Thoughts**:
+**Thoughts**: Finished products are never truly finished. After pushing and merging the updates to the main branch for deploy I envitably found bugs and errors in my site almost immediately. Spent some time figuring our the issues and PR process in Github.
 
 **Link(s) to work**:
 
