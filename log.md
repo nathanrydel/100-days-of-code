@@ -101,6 +101,19 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 1. https://github.com/nathanrydel/testportfoliodark
 2. https://nathanrydel.dev
 
+### Day 10: May 5, 2022
+
+**Today's Progress**: Looking at the documentation for Bootstrap and React to learn more about how to implement them into my own projects moving forward. Will look to other tutorials and learn how to implement Firebase into more projects. Had interview for Tech Support Engineer where React, NodeJS, and Firebase would be used together more.
+
+**Thoughts**: There are a lot of options available to make fully functional apps. Need to get more backend practice and DB practice to make more complex sites beyond Single Page CRA apps. Will need to refactor existing site to be React as next project.
+
+**Link(s) to work**:
+
+1. https://nathanrydel.dev
+2. https://firebase.google.com/docs/
+3. https://teamtreehouse.com/
+4. https://www.theodinproject.com/
+
 <!-- ### Day XXX: MM DD, 2022
 
 **Today's Progress**:
