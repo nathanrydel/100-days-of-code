@@ -79,3 +79,32 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 
 1. https://www.programmingexpert.io/
 2. https://github.com/nathanrydel/testportfoliodark
+
+### Day 8: May 3, 2022
+
+**Today's Progress**: Continued to work on portfolio so that I can have the updated look go live. Attempted to have the Skills Section and Tools Section have the appropriate logo downloaded and set from internal source. Found alternative CDN hosted to serve the images. Able to link the correct logo image to their corresponding element.
+
+**Thoughts**: Should really learn how to link Vanilla JS to internal sources. Even using JS, there are some tips for looping elements and serving them to the DOM that I should focus more attention onto. I should also learn more regex in JS instead of relying on pre-made solutions as this may be very helpful in leetCode and Coding test/practice problems in the future.
+
+**Link(s) to work**:
+
+1. https://github.com/nathanrydel/testportfoliodark
+
+### Day 9: May 4, 2022
+
+**Today's Progress**: Figured out how to host screenshots of portfolio elements on a site to use as a CDN. Completed work on portfolio and published to home domain. Cleaned up single portfolio item links
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+1. https://github.com/nathanrydel/testportfoliodark
+2. https://nathanrydel.dev
+
+<!-- ### Day XXX: MM DD, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: -->
