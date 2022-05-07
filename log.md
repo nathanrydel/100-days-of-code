@@ -114,6 +114,17 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 3. https://teamtreehouse.com/
 4. https://www.theodinproject.com/
 
+### Day 11: May 6, 2022
+
+**Today's Progress**: Completed Shopify from 30,000 ft lessons and setup a demo store using the Dawn theme. Continued with lessons for to cover backend configuration for Shopify stores. Reserching MERN stack for project ideas and to learn in demand skills. Will consider learning TS and Web3 as well to diversify skill set.
+
+**Thoughts**: Want to get experience with fullstack architecture and principles. Should still continue to focus and get familiar with front-end and CSS stylings. Also looked into installing Ubuntu on a flash drive to use for developing as Linux seems to be the preferred platform after macOS.
+
+**Link(s) to work**:
+
+1. https://partners.shopify.com
+2. https://ubuntu.com/
+
 <!-- ### Day XXX: MM DD, 2022
 
 **Today's Progress**:
