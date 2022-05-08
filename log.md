@@ -125,6 +125,17 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 1. https://partners.shopify.com
 2. https://ubuntu.com/
 
+### Day 12: May 07, 2022
+
+**Today's Progress**: Light coding day primarily focused on high level learning (youtube videos) of how TS interacts with React. Went over TS crash course to learn basics of the language and how it relates to vanilla JS.
+
+**Thoughts**: Have TS be strongly typed offers many advantages to JS while also proving to have its own challengs and shortcomings compared with other languages. Definitely intriguing as supposedly enterprises are more likely to use TS.
+
+**Link(s) to work**:
+
+1. https://www.youtube.com/watch?v=gp5H0Vw39yw&t
+2. https://www.youtube.com/watch?v=FJDVKeh7RJI&t
+
 <!-- ### Day XXX: MM DD, 2022
 
 **Today's Progress**:
