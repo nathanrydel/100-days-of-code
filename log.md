@@ -9,7 +9,7 @@
 **Link to work:**
 
 1. Basic Portfolio | https://github.com/nathanrydel/basicpersonalportfolio
-2. Programming Expert https://www.programmingexpert.io/index
+2. Programming Expert | https://www.programmingexpert.io/index
 
 ### Day 2: April 27, 2022
 
@@ -148,6 +148,16 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 2. https://www.youtube.com/watch?v=FJDVKeh7RJI&t
 3. https://nathanrydel.dev
 4. https://ubuntu.com/
+
+### Day 14: May 09, 2022
+
+**Today's Progress**: Interview day for TSEngineer/Specialist role at startup/Second round interview. Able to install Ubuntu onto old external drive, will purchase Raspberry Pi 4 at next paycheck to have solo Ubuntu machine. Will run through some JS or Python later today.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+1. https://ubuntu.com/
 
 <!-- ### Day XXX: Mmm DD, 2022
 
