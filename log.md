@@ -136,7 +136,20 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 1. https://www.youtube.com/watch?v=gp5H0Vw39yw&t
 2. https://www.youtube.com/watch?v=FJDVKeh7RJI&t
 
-<!-- ### Day XXX: MM DD, 2022
+### Day 13: May 08, 2022
+
+**Today's Progress**: Light coding day to due to personal reasons and upcoming interviews on Day 14 and Day 15. Today primarily focused on the continuation of learning JS, TS, and TS with React. Performed QA on the personal site to confirm screenshots/thumbnails still functioning and confirming links to projects are active. Attempted to install Ubuntu onto a flash drive but did not understand the process as I could not install directly on the USB I purchased. Read Ubuntu documentation to see that you cannot install directly onto the disk that one runs the installer from at this time.
+
+**Thoughts**: Continuing the learning process with JS and TS so that I can further my knowledge and comfort with the languages. Personal site is 85% of the way there but looking to refactor into a React App (most likely after successfully getting job.)
+
+**Link(s) to work**:
+
+1. https://www.youtube.com/watch?v=gp5H0Vw39yw&t
+2. https://www.youtube.com/watch?v=FJDVKeh7RJI&t
+3. https://nathanrydel.dev
+4. https://ubuntu.com/
+
+<!-- ### Day XXX: Mmm DD, 2022
 
 **Today's Progress**:
 
