@@ -159,6 +159,28 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 
 1. https://ubuntu.com/
 
+### Day 15: May 10, 2022
+
+**Today's Progress**: Worked on foundations course for the Odin Project. Installed Ubuntu on spare drive to get familiar with Linux while waiting for personal Raspberry Pi 4b. Created mobile version of landing page project using HTML and CSS.
+
+**Thoughts**: Completed about 75% of the foundations course. Created mobile layout for landing page project (extra work). Will work on Desktop version later. Very similiar to Freemote project so I am comfortable with the layout and expectations.
+
+**Link(s) to work**:
+
+1. https://ubuntu.com
+2. https://theodinproject.com
+
+### Day 16: May 11, 2022
+
+**Today's Progress**: Completed The Odin Project foundations Landing Page using only HTML and CSS. Setup AWS accounts to continue learning platform.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+1. https://theodinproject.com
+2. https://explore.skillbuilder.aws/pages/16/learner-dashboard
+
 <!-- ### Day XXX: Mmm DD, 2022
 
 **Today's Progress**:
