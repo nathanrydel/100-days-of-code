@@ -181,6 +181,41 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 1. https://theodinproject.com
 2. https://explore.skillbuilder.aws/pages/16/learner-dashboard
 
+### Day 17: May 12, 2022
+
+**Today's Progress**: Worked on Freemote project Shopify lesson pack. Looked into Next.js and TailwindCSS as frameworks to learn more about. Continued with TS learning to see if next portfolio should be written in TS.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+1. https://freemote.com
+2. https://nextjs.org/
+3. https://tailwindcss.com
+
+### Day 18: May 13, 2022
+
+**Today's Progress**: Continued with Odin Project JS course and attmepted some of the practice problems. Continued learning of Next.js as a framework for React apps moving forward. Looked up MERN stack projects to attempt.
+
+**Thoughts**: Have idea for time keeping project using MERN stack as next React Portfolio element.
+
+**Link(s) to work**:
+
+1. https://theodinproject.com
+2. https://nextjs.org
+3. https://youtube.com
+
+### Day 19: May 14, 2022
+
+**Today's Progress**: Configuring Raspberry Pi 4b device to use Ubuntu. Setting up dev environment (VS Code, Chromium, NodeJS, etc...).
+
+**Thoughts**: The arm64 is posing some challenges for a novice Linux user. Getting more familiar with the Linux Terminal as a result.
+
+**Link(s) to work**:
+
+1. https://raspberrypi.org
+2. https://ubuntu.com
+
 <!-- ### Day XXX: Mmm DD, 2022
 
 **Today's Progress**:
