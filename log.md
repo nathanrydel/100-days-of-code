@@ -216,6 +216,18 @@ For the coding assessments from ProgrammingExpert, I will try to watch the solut
 1. https://raspberrypi.org
 2. https://ubuntu.com
 
+### Day 20: May 15, 2022
+
+**Today's Progress**: Completed TheOdinProject Foundations Course and choose the Full Stack JavaScript Path. Setup private github to use a repo for moving through the course.
+
+**Thoughts**: Now have 3 concurrent courses to learn coding in JavaScript and Python. I believe that this is a good balance and will have a wealth of projects to add to personal porfolio. Additionally, looking into use Bootstrap as main CSS pre-processor.
+
+**Link(s) to work**:
+
+1. https://theodinproject.com
+2. https://freemote.com
+3. https://programmingexpert.io
+
 <!-- ### Day XXX: Mmm DD, 2022
 
 **Today's Progress**:
